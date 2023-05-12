@@ -15,6 +15,15 @@ The app is built using Flask, Python, and JavaScript. It is easy to use and can 
 * View the accuracy of the models
 * Deploy the app to any web server
 
+# Libraries Used:
+ 1. Sci-kit Learn
+ 2. Flask
+ 3. Joblib
+ 4. Pandas
+ 5. Numpy
+ 6. Bootstrap
+ 7. HTML & CSS
+
 ## Requirements
 
 * Flask
