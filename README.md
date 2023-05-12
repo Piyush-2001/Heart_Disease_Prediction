@@ -1,9 +1,4 @@
-# Heart_Disease_Prediction
-
-Sure, here is a readme file for a heart disease prediction web app using Machine learning models Logistic Regression, Random Forests, Gaussian Naive Bayes and SVM and Flask, Python, and JavaScript:
-
-
-## Heart Disease Prediction Web App
+# Heart Disease Prediction Web App
 
 This web app uses machine learning models to predict the risk of heart disease in individuals. The models are trained on a dataset of over 900 patients, and they have been shown to be very accurate.
 
@@ -15,7 +10,7 @@ The app is built using Flask, Python, and JavaScript. It is easy to use and can 
 * View the accuracy of the models
 * Deploy the app to any web server
 
-# Libraries Used:
+## Libraries Used:
  1. Sci-kit Learn
  2. Flask
  3. Joblib
